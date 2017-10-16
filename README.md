@@ -13,6 +13,6 @@ edit /etc/rc.local file to run script on boot
 add line before exit 0
 > /usr/bin/zram.sh &
 
-
+https://www.youtube.com/watch?v=IBNZLREqBxg
 https://www.youtube.com/watch?v=CJ4VAelq-wE
 
